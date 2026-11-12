@@ -12,7 +12,11 @@ https://github.com/pagano-antonio/mizar-gtl-dashboard
 ## 📸 Dashboard
 
 The dashboard is designed for an 800×480 touchscreen display and is organized into four main areas.
+## 📸 Dashboard Preview
 
+![MIZAR GTL Dashboard](DashBoard.png)
+
+*MIZAR GTL – Camper Control Center running on ELECROW CrowPanel 7".*
 ### 1. Header and system information
 
 - Camper logo and project name.
